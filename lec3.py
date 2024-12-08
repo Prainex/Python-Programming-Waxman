@@ -1,4 +1,0 @@
-print(3 * 'hello')
-
-print('1' + '' + '2' + '' + '3')
-print("1\n2\n3")
